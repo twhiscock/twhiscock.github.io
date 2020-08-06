@@ -1,0 +1,9 @@
+https://twhiscock.github.io/files/EXP_CTRL_1.txt
+https://twhiscock.github.io/files/EXP_CTRL_2.txt
+https://twhiscock.github.io/files/EXP_INF_1.txt
+https://twhiscock.github.io/files/EXP_INF_2.txt
+https://twhiscock.github.io/files/DIF_CTRL_1.txt
+https://twhiscock.github.io/files/DIF_CTRL_2.txt
+https://twhiscock.github.io/files/DIF_INF_1.txt
+https://twhiscock.github.io/files/DIF_INF_2.txt
+https://twhiscock.github.io/files/diffGenes.txt
